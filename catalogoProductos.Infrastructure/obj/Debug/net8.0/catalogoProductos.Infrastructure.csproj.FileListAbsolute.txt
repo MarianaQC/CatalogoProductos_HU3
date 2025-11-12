@@ -1,0 +1,17 @@
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\bin\Debug\net8.0\catalogoProductos.Infrastructure.deps.json
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\bin\Debug\net8.0\catalogoProductos.Infrastructure.runtimeconfig.json
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\bin\Debug\net8.0\catalogoProductos.Infrastructure.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\bin\Debug\net8.0\catalogoProductos.Infrastructure.pdb
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\bin\Debug\net8.0\catalogoProductos.Domain.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\bin\Debug\net8.0\catalogoProductos.Domain.pdb
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogoProductos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogoProductos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogoProductos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogoProductos.Infrastructure.AssemblyInfo.cs
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogoProductos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogo.50FB3B8B.Up2Date
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogoProductos.Infrastructure.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\refint\catalogoProductos.Infrastructure.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogoProductos.Infrastructure.pdb
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\catalogoProductos.Infrastructure.genruntimeconfig.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Infrastructure\obj\Debug\net8.0\ref\catalogoProductos.Infrastructure.dll

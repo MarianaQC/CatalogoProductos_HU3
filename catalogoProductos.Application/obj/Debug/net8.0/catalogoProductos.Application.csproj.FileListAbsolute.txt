@@ -1,0 +1,15 @@
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\bin\Debug\net8.0\catalogoProductos.Application.deps.json
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\bin\Debug\net8.0\catalogoProductos.Application.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\bin\Debug\net8.0\catalogoProductos.Application.pdb
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\bin\Debug\net8.0\catalogoProductos.Domain.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\bin\Debug\net8.0\catalogoProductos.Domain.pdb
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\catalogoProductos.Application.csproj.AssemblyReference.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\catalogoProductos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\catalogoProductos.Application.AssemblyInfoInputs.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\catalogoProductos.Application.AssemblyInfo.cs
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\catalogoProductos.Application.csproj.CoreCompileInputs.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\catalogo.4B8DAFCF.Up2Date
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\catalogoProductos.Application.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\refint\catalogoProductos.Application.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\catalogoProductos.Application.pdb
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Application\obj\Debug\net8.0\ref\catalogoProductos.Application.dll

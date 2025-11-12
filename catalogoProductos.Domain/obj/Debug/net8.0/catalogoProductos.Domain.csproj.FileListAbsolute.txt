@@ -1,0 +1,11 @@
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\bin\Debug\net8.0\catalogoProductos.Domain.deps.json
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\bin\Debug\net8.0\catalogoProductos.Domain.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\bin\Debug\net8.0\catalogoProductos.Domain.pdb
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\obj\Debug\net8.0\catalogoProductos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\obj\Debug\net8.0\catalogoProductos.Domain.AssemblyInfoInputs.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\obj\Debug\net8.0\catalogoProductos.Domain.AssemblyInfo.cs
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\obj\Debug\net8.0\catalogoProductos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\obj\Debug\net8.0\catalogoProductos.Domain.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\obj\Debug\net8.0\refint\catalogoProductos.Domain.dll
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\obj\Debug\net8.0\catalogoProductos.Domain.pdb
+C:\Users\mcqui\OneDrive\Desktop\HISTORIA USUARIO\catalogoProductos\catalogoProductos.Domain\obj\Debug\net8.0\ref\catalogoProductos.Domain.dll

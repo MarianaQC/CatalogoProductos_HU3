@@ -1,0 +1,40 @@
+﻿version: "3.8"
+services:
+  db:
+    image: mysql:8.0
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: catalogodb
+    ports:
+      - "3306:3306"
+    volumes:
+      - dbdata:/var/lib/mysql
+
+  api:
+    build:
+      context: ./catalogoProductos.Api
+      dockerfile: Dockerfile
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=server=db;port=3306;database=catalogodb;user=root;password=root;
+      - Jwt__Key=TU_CLAVE_SECRETA_LARGA_AQUI_>32_chars
+      - Jwt__Issuer=catalogoApi
+      - Jwt__Audience=catalogoClient
+    ports:
+      - "5000:80"
+
+  adminer:
+    image: adminer
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+
+volumes:
+  dbdata:
+
+
+ Nota: ConnectionStrings__DefaultConnection
+   usa la convención de variables de entorno para .NET.
+   En Dockerfile usarás ASPNETCORE_URLS si lo necesitas.
